@@ -2,7 +2,7 @@
 Campus EPSB Program & Networking
 
 **Purpose**: Campus EPSB and Computer Pathways Students contribute to our school community by managing a unique bank of laptops
-- "On the Job" training in an Educational Setting with Professional IT Networking Providers
+- "On the Job" training in an Educational Setting assisted by Professional IT Networking Providers
 
 **UNDER CONSTRUCTION**
 
@@ -12,7 +12,7 @@ and by Alberta Computers for Schools.
 Intent
 - Laptops are lent like books or textbooks and tracked through the Library System
   - **CAUTION**: these machines never leave the school campus
-- EPSB IT Services support these computers
+- EPS IT Services support these computers
 - IT Students do as much work on these machines until they cannot ... elevating the issue to EPSB IT Services
 - All software tools and infrastructure students engage with is also supported by EPSB IT Services and other Queen Elizabeth High School Staff (i.e. School Librarian)
 
