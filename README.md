@@ -10,7 +10,7 @@ Supported by Edmonton Public Schools through Campus EPSB and Career Pathways
 and by Alberta Computers for Schools.
 
 Intent
-- Laptops are lent like books and tracked through the Library System
+- Laptops are lent like books or textbooks and tracked through the Library System
   - **CAUTION**: these machines never leave the school campus
 - EPSB IT Services support these computers
 - IT Students do as much work on these machines until they cannot ... elevating the issue to EPSB IT Services
