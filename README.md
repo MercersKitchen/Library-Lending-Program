@@ -24,8 +24,9 @@ Intent
 ---
 
 # Installing CS6 Workarounds
+- Download the creative suit from the Adobe Website
 - If installing Program and seems to loop infinitely, install program then continue with CS6 install
   - I.e. C++ 2005 Redistribution Package 2005 from  Microsoft x86 & x64 copies
 - Testing if specific computers have install issues compared to other computers
-
+- Install Preimere, Audition, and PHotoshop separately
 ---
