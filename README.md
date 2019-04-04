@@ -22,3 +22,9 @@ Intent
 <a href="https://github.com/QEHS-Networking/Library-Lending-Program-Private">Click Here for Private Notes</a>
 
 ---
+
+# Installing CS6 Workarounds
+- If installing Program and seems to loop infinitely, install program then continue with CS6 install
+  - I.e. C++ from  Microsoft
+
+---
