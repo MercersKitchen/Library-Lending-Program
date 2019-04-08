@@ -41,4 +41,6 @@ Additional Tasks to help machines run better
 - Ensure Software Centre completes all updates
 - Use Device Manager to check and update drivers
 
+Note: see ITE Chapter 6 for more ideas
+
 ---
