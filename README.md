@@ -26,9 +26,19 @@ Intent
 # Installing CS6 for Classroom Specific Notes, steps that work
 - Download the creative suit from the Adobe Website OR
 - Use Installation CDs
-- Use License 
+- Use License
 - Skip Sign In with Adobe ID
 - Install Premiere, Audition, and Photoshop separately
 - User must complete installation with Adobe ID
+
+- EPSB has added CS6 to the Windows 10 SCCM Installation
+
+---
+
+Additional Tasks to help machines run better
+- Defragmenting the Drive
+- Use CC Cleaner
+- Ensure Software Centre completes all updates
+- Use Device Manager to check and update drivers
 
 ---
